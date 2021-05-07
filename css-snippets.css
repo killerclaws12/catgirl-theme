@@ -1,0 +1,47 @@
+/** Mobile Roles v1 */
+.role-2irmRk {
+    background-color: var(--background-tertiary);
+    border-radius: 4px;
+    border: none;
+    padding: 0 5px 0 8px;
+    height: 25px;
+}
+.role-2irmRk.actionButton-VzECiy {
+    background-color: var(--background-tertiary);
+    padding-left: 7px;
+    padding-right: 7px;
+}
+.role-2irmRk .roleCircle-3xAZ1j {
+    margin-right: 6px;
+    width: 9px;
+    height: 9px;
+}
+/** Unread Pill Bar v1 */
+.newMessagesBar-265mhP {
+    width: 500px;
+    top: 1.6rem;
+    left: auto;
+    right: 12px;
+    border-radius: 0.7rem 0 0 0.7rem;
+    float: right;
+}
+.newMessagesBar-265mhP.barBase-1c2Rfb .barButtonAlt-mYL1lj.barButtonBase-2uLO1z {
+    width: auto;
+}
+
+/**Colored hover window buttons v1 */
+.titleBar-AC4pGV>*:nth-child(2):hover {
+  	background-color: #f04747;
+  	filter:none;
+    transition:200ms ease;
+}
+.titleBar-AC4pGV>*:nth-child(3):hover {
+  	background-color: #056295;
+  	filter:none;
+    transition:200ms ease;
+}
+.titleBar-AC4pGV>*:nth-child(4):hover {
+  	background-color: #FDB100;
+  	filter:none;
+    transition:200ms ease;
+}
